@@ -8,7 +8,7 @@ I am Md Hamidul islam. working in Software Company.
 
 Skills: HTML / CSS / JS / JQUERY/ AJAX / PHP / LARAVEL/ MYSQL
 
-- 🔭 I’m currently working on Chat-App 
+- 🔭 I’m currently working on Serialize Product 
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Web Development 
 
