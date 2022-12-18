@@ -4,7 +4,7 @@
 #### Laravel Developer
 
 
-I am Md Hamidul islam. working in Software Company.
+I am Md Hamidul islam. working as a Laravel Developer
 
 Skills: HTML / CSS / JS / JQUERY/ AJAX / PHP / LARAVEL/ MYSQL
 
