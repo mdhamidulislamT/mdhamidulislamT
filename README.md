@@ -8,7 +8,7 @@ I am Md Hamidul islam. working as a Laravel Developer
 
 Skills: HTML / CSS / Javascript / JQUERY/ AJAX / PHP / LARAVEL/ MYSQL
 
-- 🔭 I’m currently working on Accounts Module 
+- 🔭 I’m currently working .....
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Web Development 
 
