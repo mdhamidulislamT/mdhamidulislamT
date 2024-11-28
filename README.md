@@ -5,7 +5,7 @@
 
 # 💻 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,mysql,html,css,jquery,postman,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,mysql,html,css,bootstrap,jquery,postman,vscode,git)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdhamidulislamT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
