@@ -74,17 +74,6 @@ A compliance-driven **SaaS platform** for UK training providers to track apprent
 
 ---
 
-### More Projects
-I regularly practice and explore new tools. Check out some of my public repositories:
-- [**real-time-chat-app**](https://github.com/mdhamidulislamT/real-time-chat-app) — Realtime chat built with Laravel, Pusher & WebSockets
-- [**laravel-lumen**](https://github.com/mdhamidulislamT/laravel-lumen) — Practice project using the Lumen micro-framework
-- [**LaraTips**](https://github.com/mdhamidulislamT/LaraTips) — Laravel daily practice, basics to advanced
-- [**my-daily-expense-app-with-next-js**](https://github.com/mdhamidulislamT/my-daily-expense-app-with-next-js) — Expense tracker built with Next.js
-- [**laravel-react**](https://github.com/mdhamidulislamT/laravel-react) — Laravel + React integration
-- [**laravel8crud**](https://github.com/mdhamidulislamT/laravel8crud) — Laravel 8 CRUD starter
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
